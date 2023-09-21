@@ -1,0 +1,6 @@
+extends layout.pug
+
+block content
+        h3= error.message
+        h4= `Error Status: ${error.status}` 
+        pre= error.stack

@@ -1,0 +1,63 @@
+{
+    "projects": [
+      {
+        "id": 0,
+        "project_name": "Random Quote Generator",
+        "description": "A program that displays a randomly selected quote each time the user clicks a button.",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "live_link": "https://samita-magar.github.io/random_quote/",
+        "github_link": "https://github.com/Samita-Magar/random_quote_generator",
+        "image_urls1": "/static/images/random_quote_1.png",
+        "image_urls2": "/static/images/random_quote_2.png",
+        "image_urls3": "/static/images/random_quote_3.png"
+
+
+      },
+      {
+        "id": 1,
+        "project_name": "Data Pagination and Filtering",
+        "description": "The site that displays several “pages” of student data that the user can easily navigate and view.",
+        "technologies": ["HTML", "CSS","Javascript"],
+        "live_link": "https://samita-magar.github.io/data_filtering/",
+        "github_link": "https://github.com/Samita-Magar/data-pagination-and-filtering",
+        "image_urls1": "/static/images/data_filtering_1.png",
+        "image_urls2": "/static/images/data_filtering_2.png",
+        "image_urls3": "/static/images/data_filtering_3.png"
+
+      },
+      {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "An interactive and easy to use form to book for the conference",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "live_link": "https://samita-magar.github.io/javascript_form/",
+        "github_link": "https://github.com/Samita-Magar/interactive-form",
+        "image_urls1": "/static/images/interactive_form_1.png",    
+        "image_urls2": "/static/images/interactive_form_2.png",
+        "image_urls3": "/static/images/interactive_form_3.png"  
+      },
+      {
+        "id": 3,
+        "project_name": "OOP Game Show App",
+        "description": "A browser-based, word guessing game: Phrase Hunter.",
+        "technologies": ["HTML", "CSS", "Javascript", "Object-Oriented Programming"],
+        "live_link": "https://samita-magar.github.io/game/",
+        "github_link": "https://github.com/Samita-Magar/oop-game",
+        "image_urls1": "/static/images/oop_game_1.png",
+        "image_urls2": "/static/images/oop_game_2.png",
+        "image_urls3": "/static/images/oop_game_3.png"     
+      },
+      {
+        "id": 4,
+        "project_name": "Public API Requests",
+        "description": "An employee directory created by communicating with a third-party API.",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "live_link": "https://samita-magar.github.io/api_request/",
+        "github_link": "https://github.com/Samita-Magar/public-api-request",
+        "image_urls1": "/static/images/api_request_1.png",
+        "image_urls2": "/static/images/api_request_2.png",
+        "image_urls3": "/static/images/api_request_3.png"
+      }
+    ]
+  }
+  
